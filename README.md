@@ -20,3 +20,4 @@ tomi.adegbenro@gmail.com
 * Pandas, Jupyter
 * Python
 * Matplotlib libraries
+* BeautifulSoup library for HTML/XML parsing
